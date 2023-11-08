@@ -1,7 +1,5 @@
-# Issue at Hand
+**Problem Statement:**
+The online fashion retailer has accumulated an extensive repository of customer reviews, representing a wide spectrum of sentiments expressed toward our products. Nonetheless, the manual assessment of each review to determine its sentiment proves impractical due to the sheer volume of data.
 
-Hospital readmissions constitute a formidable challenge in the healthcare domain, with far-reaching consequences for both patients and healthcare systems. The problem escalates healthcare costs and can lead to unfavorable patient outcomes. Identifying patients at risk of readmission holds immense significance in the efficient allocation of healthcare resources and the enhancement of patient care. This project endeavors to craft a machine learning solution that harnesses patient records to predict the probability of readmission for patients post their hospital discharge.
-
-# Suggested Approach
-
-Our proposed solution revolves around the development of a predictive model that can segregate patients into two distinct categories: those at a heightened risk of readmission and those with a diminished risk. To address this issue, we will adopt a structured methodology. This will encompass the preprocessing of data and the meticulous engineering of features, making the dataset conducive for modeling. We will explore a spectrum of machine learning algorithms and employ relevant evaluation metrics to construct and fine-tune the predictive model. Our ultimate aim is to equip healthcare professionals with a potent tool for early intervention and the delivery of personalized patient care, ultimately reducing readmission rates and augmenting patient well-being. This GitHub repository stands as a comprehensive resource to chronicle and disseminate our entire project, fostering transparency and knowledge dissemination within the healthcare and data science communities.
+**Proposed Solution:**
+Our solution harnesses the capabilities of natural language processing (NLP) and machine learning. We have engineered a sentiment analysis model designed to automatically classify customer reviews into distinct sentiment categories, streamlining the process of gauging customer sentiment towards our products. This model not only saves valuable time but also delivers real-time insights, enhancing our business operations.
